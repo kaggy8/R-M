@@ -15,7 +15,7 @@
 
 ## Distribute
 Были использованы сторонние библиотеки, такие как
-KingFisher
+KingFisher, 
 MBProgressHUD
 
 Используемая API -
